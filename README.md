@@ -98,5 +98,3 @@ npm run format
 
 Note:- This project is private and belongs to Fawad Ahmed Baig.
 You may use the structure for learning or personal reference.
-
-# Developed by Muhammad Farooq.
