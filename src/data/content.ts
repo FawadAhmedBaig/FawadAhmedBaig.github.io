@@ -57,10 +57,9 @@ export const about: About = {
     },
   ],
   serviceAndTeaching: [
-    "Silver Medalist — Department Rank 2/66 in BS Computer Science, KFUEIT",
-    "Fellow & Peer Mentor — Aspire Leaders Program (Founded by Harvard Faculty, Cohort '26)",
+    "Fellow & Peer Mentor — Harvard's Aspire Leaders Program 2026",
     "Section Leader / Mentor — Stanford Code in Place (CIP)",
-    "Donation Co-Head & Team Lead — Kare Kamal Welfare Foundation (15+ Volunteers Led)",
+    "Donation Co-Head — Kare Kamal Welfare Foundation (15+ Volunteers Led)",
   ],
   // For footer
   location: "Rahim Yar Khan, Pakistan",
